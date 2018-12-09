@@ -1,3 +1,3 @@
 Blanca Olavarria
 
-First time pogramming
+First time programming
